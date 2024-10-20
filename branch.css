@@ -248,7 +248,7 @@ li{
         margin-left: 270px;
         /* margin-right: 50px; */
         padding-top: 120px; 
-        border: 2px solid yellow;
+        border: 2px solid none;
     }
 
     h2{
@@ -297,7 +297,7 @@ li{
     .container{
         width: 800px;
         height: 7000px;
-       border: 2px solid red;
+       border: 2px solid none;
        display: flex;  
        flex-wrap: wrap;
        /* justify-content: space-between; */ 
@@ -309,7 +309,7 @@ li{
         width: 800px;  
         height: 850px; 
         color: yellow;
-        border: 2px solid green;
+        border: 2px solid none;
         margin: 50px 0; 
         font-size: 45px;
         align-content: center;  
